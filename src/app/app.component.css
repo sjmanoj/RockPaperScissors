@@ -71,6 +71,12 @@ img {
 }
 
 h5 {
-  margin-left: 43%;
-  padding-top: 40px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #081b31;
+  color: #fff;
+  padding: 10px 0;
 }
